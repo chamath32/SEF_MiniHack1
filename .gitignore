@@ -1,0 +1,28 @@
+# Dotnet build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Node/React build artifacts
+node_modules/
+dist/
+dist-ssr
+*.local
+.eslintcache
+
+# IDE specific files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+.DS_Store
+
+# DB / migrations
+*.db
+*.db-journal
